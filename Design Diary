@@ -1,0 +1,16 @@
+The first milestone was pretty simple for me because we just followed a tutorial. The difficult aspect was trying to
+completely comprehend what I was writing on the script. There were aspects I did not understand because I do not know
+all of the operations available in unity, so being introduced to new methods while trying to create a game is a bit 
+overwhelming. Also, I did not have the library for unity installed onto my VisualStudio, so everything I was putting in
+could not autofill or show me what it did. That made it very difficult to write the script with the tutorial because I 
+had to continuously pause to make sure I was writing it correctly.
+
+Another difficulty I faced was the scaling of the canvaas on the tutorial compared to mine. His scaling was fairly large
+where mine was a lot smaller. The tutorial scaled the cards around 120, 177; however, my scaling for the cards needed to
+be 50, 70. Also, there was a glitch in placing the cards from the player area to the middle area. To fix this, instead of 
+making the middle area collider the same size, like he does in the tutorial, I made it cover everything that was not the
+player or opponent area. This fixed the problem, but I feel like there is a better way to do this.
+
+Other than these difficulties, and the overall time it took, I found this tutorial to be enjoyable. I liked that I could
+choose the colors and placement of the cards and background. This tutorial makes me excited to start creating the 
+BlackJack game for Milestone 2.
